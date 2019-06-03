@@ -1,7 +1,7 @@
 # AUDIO VISUALISATION APP
 
 ```
-https://codesandbox.io/s/quirky-booth-z3v7g
+https://z3v7g.codesandbox.io/
 ```
 
 This is an app built with HTML5 Canvas, and Web Audio API. It's main purpose is to visualise frequency change of played audio.
